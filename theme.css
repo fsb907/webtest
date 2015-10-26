@@ -1,0 +1,46 @@
+body{
+  margin: 0px;
+}
+
+.header-content{
+  background: url("images/bg-header.jpg");
+  background-size: cover;
+  height: 875px;
+  width: 100%;
+  position: relative;
+  color: #fff;
+
+}
+.nav-header{
+ 
+  display: inline-block;
+  width: 100%;
+}
+
+.logo{
+  background: url("images/logo.png") no-repeat;
+  width: 200px;
+  height: 40px;
+  display: inline-block;
+
+
+}
+.nav-right{
+  display: inline-block;
+  color:#000;
+  
+} 
+
+.buton {
+  background-color: transparent;
+  border: solid 1px #FFF;
+  padding: 20px;
+  text-transform: uppercase;
+  border-radius: 5px;
+  color:#FFF;
+}
+.buton:hover {
+  background-color: red;
+  
+}
+
